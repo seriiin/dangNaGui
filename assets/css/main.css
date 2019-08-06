@@ -27,9 +27,9 @@ section, summary, time, mark, audio, video {
 
 
 
-	fieldset { position: relative;  width: 500px; display: inline-block;  padding: 0 0 0 40px;  border: none;  border-radius: 5px; } 
+	fieldset { position: relative;  width: 80%;   padding: 0 0 0 40px;  border: none;  border-radius: 5px; } 
 
-	input, button {  position: relative; top:0px; width: 150px;  height: 50px;  padding: 0;  display: inline-block;  float: right; } 
+	input, button {  position: relative; top:0px; width: 100px;  height: 50px;  padding: 0;    float: right; } 
 	
 	/* input {  color: #666;  z-index: 2;  border: 0 none; }
 	
@@ -2997,7 +2997,6 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
 		}
 
 			.spotlights > section > .image {
