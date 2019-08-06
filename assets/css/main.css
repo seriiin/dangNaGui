@@ -3457,6 +3457,7 @@ input, select, textarea {
 		min-height: 22em;
 		position: relative;
 		top: -3.25em;
+		align-items: center;
 	}
 
 		#banner:after {
@@ -3543,6 +3544,7 @@ input, select, textarea {
 			height: 75vh;
 			min-height: 30em;
 			max-height: 50em;
+
 		}
 
 			#banner.major.alt {
